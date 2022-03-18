@@ -1,0 +1,7 @@
+[kcat]
+bootstrap.servers=kafka:9092
+security.protocol=sasl_ssl
+sasl.mechanisms=PLAIN
+sasl.username=username
+sasl.password=password
+enable.ssl.certificate.verification=false
